@@ -1,11 +1,11 @@
 <?php
 $catalog = [];
-//Books
+//Basses
 $catalog[101] = [
-	"title" => "A Design Patterns: Elements of Reusable Object-Oriented Software",
+	"brand" => "Ibanez",
 	"img" => "img/media/design_patterns.jpg",
-    "genre" => "Tech",
-    "format" => "Paperback",
+    "model" => "SRF700",
+    "strings" => "flats",
     "year" => 1994,
     "category" => "Books",
     "authors" => [
