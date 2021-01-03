@@ -6,59 +6,71 @@ $catalog[101] = [
 	"img" => "img/media/design_patterns.jpg",
     "model" => "SRF700",
     "strings" => "flats",
-    "year" => 1994,
-    "category" => "Books",
-    "authors" => [
-        "Erich Gamma",
-        "Richard Helm",
-        "Ralph Johnson",
-        "John Vlissides"
-    ],
-    "publisher" => "Prentice Hall",
-    "isbn" => '978-0201633610'
+    // "year" => 1994,
+    // "category" => "Books",
+    // "authors" => [
+    //     "Erich Gamma",
+    //     "Richard Helm",
+    //     "Ralph Johnson",
+    //     "John Vlissides"
+    // ],
+    // "publisher" => "Prentice Hall",
+    // "isbn" => '978-0201633610'
 ];
 $catalog[102] = [
-    "title" => "Clean Code: A Handbook of Agile Software Craftsmanship",
-    "img" => "img/media/clean_code.jpg",
-    "genre" => "Tech",
-    "format" => "Ebook",
-    "year" => 2008,
-    "category" => "Books",
-    "authors" => [
-        "Robert C. Martin"
-    ],
-    "publisher" => "Prentice Hall",
-    "isbn" => '978-0132350884'
+    "brand" => "Ibanez",
+	"img" => "img/media/design_patterns.jpg",
+    "model" => "SR405",
+    "strings" => "",
+    // "title" => "Clean Code: A Handbook of Agile Software Craftsmanship",
+    // "img" => "img/media/clean_code.jpg",
+    // "genre" => "Tech",
+    // "format" => "Ebook",
+    // "year" => 2008,
+    // "category" => "Books",
+    // "authors" => [
+    //     "Robert C. Martin"
+    // ],
+    // "publisher" => "Prentice Hall",
+    // "isbn" => '978-0132350884'
 ];
 $catalog[103] = [
-    "title" => "Refactoring: Improving the Design of Existing Code",
-    "img" => "img/media/refactoring.jpg",
-    "genre" => "Tech",
-    "format" => "Hardcover",
-    "year" => 1999,
-    "category" => "Books",
-    "authors" => [
-        "Martin Fowler",
-        "Kent Beck",
-        "John Brant",
-        "William Opdyke",
-        "Don Roberts"
-    ],
-    "publisher" => "Addison-Wesley Professional",
-    "isbn" => '978-0201485677'
+    "brand" => "Squier by Fender",
+	"img" => "img/media/design_patterns.jpg",
+    "model" => "Affinity Series Jazz Bass",
+    "strings" => "Ernie Ball Slinky Hybrid",
+    // "title" => "Refactoring: Improving the Design of Existing Code",
+    // "img" => "img/media/refactoring.jpg",
+    // "genre" => "Tech",
+    // "format" => "Hardcover",
+    // "year" => 1999,
+    // "category" => "Books",
+    // "authors" => [
+    //     "Martin Fowler",
+    //     "Kent Beck",
+    //     "John Brant",
+    //     "William Opdyke",
+    //     "Don Roberts"
+    // ],
+    // "publisher" => "Addison-Wesley Professional",
+    // "isbn" => '978-0201485677'
 ];
 $catalog[104] = [
-    "title" => "The Clean Coder: A Code of Conduct for Professional Programmers",
-    "img" => "img/media/clean_coder.jpg",
-    "genre" => "Tech",
-    "format" => "Audio",
-    "year" => 2011,
-    "category" => "Books",
-    "authors" => [
-        "Robert C. Martin"
-    ],
-    "publisher" => "Prentice Hall",
-    "isbn" => '007-6092046981'
+    "brand" => "Sterling by Music Man",
+	"img" => "img/media/design_patterns.jpg",
+    "model" => "CA Ray34",
+    "strings" => "",
+    // "title" => "The Clean Coder: A Code of Conduct for Professional Programmers",
+    // "img" => "img/media/clean_coder.jpg",
+    // "genre" => "Tech",
+    // "format" => "Audio",
+    // "year" => 2011,
+    // "category" => "Books",
+    // "authors" => [
+    //     "Robert C. Martin"
+    // ],
+    // "publisher" => "Prentice Hall",
+    // "isbn" => '007-6092046981'
 ];
 //Movies
 $catalog[201] = [
