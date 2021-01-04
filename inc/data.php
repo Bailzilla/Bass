@@ -2,6 +2,7 @@
 $catalog = [];
 //Basses
 $catalog[101] = [
+    "type" => "bass",
 	"brand" => "Ibanez",
 	"img" => "img/media/design_patterns.jpg",
     "model" => "SRF700",
@@ -74,23 +75,26 @@ $catalog[104] = [
 ];
 //Movies
 $catalog[201] = [
-    "title" => "Forrest Gump",
-    "img" => "img/media/forest_gump.jpg",
-    "genre" => "Drama",
-    "format" => "DVD",
-    "year" => 1994,
-    "category" => "Movies",
-    "director" => "Robert Zemeckis",
-    "writers" => [
-        "Winston Groom",
-        "Eric Roth"
-    ],
-    "stars" => [
-        "Tom Hanks",
-        "Rebecca Williams",
-        "Sally Field",
-        "Michael Conner Humphreys"
-    ]
+    "type" => "bass",
+    "brand" => "Ampeg",
+    "model" => "BA115 Combo",
+    // "title" => "Forrest Gump",
+    // "img" => "img/media/forest_gump.jpg",
+    // "genre" => "Drama",
+    // "format" => "DVD",
+    // "year" => 1994,
+    // "category" => "Movies",
+    // "director" => "Robert Zemeckis",
+    // "writers" => [
+    //     "Winston Groom",
+    //     "Eric Roth"
+    // ],
+    // "stars" => [
+    //     "Tom Hanks",
+    //     "Rebecca Williams",
+    //     "Sally Field",
+    //     "Michael Conner Humphreys"
+    // ]
 ];
 $catalog[202] = [
     "title" => "Office Space",
