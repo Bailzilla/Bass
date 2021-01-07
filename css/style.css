@@ -657,8 +657,8 @@ form input[type="submit"] {
     cursor: pointer;
   }
 .page p.message {
-    background: #ffeca4;
-    border: 1px solid #f16702;
+    background: #d3b031;
+    border: 1px solid #8a3c05;
     padding: 1em;
     width: 444px;
 }
