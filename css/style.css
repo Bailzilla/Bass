@@ -659,7 +659,7 @@ form input[type="submit"] {
 .page p.message {
     background: #d3b031;
     border: 1px solid #8a3c05;
-    padding: 1em;
+    padding: 1.5em;
     width: 444px;
 }
 .breadcrumbs {
